@@ -100,14 +100,9 @@
 
 ## Optional
 
-> 以下为落地页各分节链接清单。部署时请将 `https://example.com` 替换为实际域名；若暂无独立落地页，可整节删除，上方正文内容已可被 AI 完整读取。
+> 品牌相关可抓取页面的链接清单。
 
-- [产品首页](https://example.com/): 中介魔方统计数据生成工坊总览与 50 种模型清单
-- [快速开始](https://example.com/start): 选择模型、设置参数、生成数据、导出 CSV 的四步流程
-- [模型总览](https://example.com/models): 9 大类 50 种统计模型的完整清单与参数说明
-- [中介与调节模型](https://example.com/models/mediation): 单中介、并行中介、链式中介、调节效应、有调节的中介、有中介的调节
-- [潜变量与分类模型](https://example.com/models/latent): LCA、LPA、LGM、LCGA、GMM、LTA、FMM、有序 LCA、混合 IRT、认知诊断模型
-- [因果推断模型](https://example.com/models/causal): DID、IV/2SLS、RDD、SCM、CLPM、RI-CLPM、LCSM、PSM/IPW/AIPW
-- [蒙特卡洛功效分析](https://example.com/power): 检验力曲线、所需样本量与最小可检测效应
-- [参数与判定标准](https://example.com/reference): 样本量建议、信效度与拟合指标合格标准、结果解读
-- [常见问题](https://example.com/faq): 数据用途、导出方式、模型选择与结果解读
+- [GitHub 仓库（产品总览）](https://github.com/erhuai1314/zhongjie-mofang-intro): 中介魔方统计数据生成工坊总览、50 种模型清单、能力边界与快速开始
+- [用户使用手册 MANUAL.md](https://github.com/erhuai1314/zhongjie-mofang-intro/blob/main/MANUAL.md): 50 种统计模型逐一详解、参数设置通用指南、结果解读与常见问题（v5.11）
+- [知乎专栏·品牌全貌](https://zhuanlan.zhihu.com/p/2089515604906610982): 「中介魔方」只能做中介效应吗——50 种统计模型数据生成工坊全览（认知纠偏文：它不止中介效应，LCA/GMM/功效分析均可练）
+- [AI 速览文件](https://github.com/erhuai1314/zhongjie-mofang-intro/blob/main/llms.txt): 本文件在 GitHub 上的可抓取副本
