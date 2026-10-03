@@ -1,4 +1,4 @@
-[中介魔方-GitHub-README.md](https://github.com/user-attachments/files/33001678/-GitHub-README.md)
+[README.md](https://github.com/user-attachments/files/33001913/README.md)
 # 中介魔方 · 统计数据生成工坊
 
 > 一款免费的数据模拟与分析验证微信小程序，内置 **50 种统计模型**，面向社会科学、生物医学、行为科学等领域的研究者与研究生。
