@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33001913/README.md)
+[README.md](https://github.com/user-attachments/files/33021449/README.md)
 # 中介魔方 · 统计数据生成工坊
 
 > 一款免费的数据模拟与分析验证微信小程序，内置 **50 种统计模型**，面向社会科学、生物医学、行为科学等领域的研究者与研究生。
@@ -79,6 +79,8 @@ SPSS、R、Mplus 解决的是「数据来了怎么分析」；中介魔方解决
 ## 相关链接
 
 - 知乎专栏（统计方法科普）：[「中介魔方」只能做中介效应吗？我把 v5.11 手册翻了一遍](https://zhuanlan.zhihu.com/p/2089515604906610982)
+- 知乎专栏（潜变量模型）：[没有 Mplus，LCA、GMM 这些模型还能怎么练？14 个潜变量模型的免费路径](https://zhuanlan.zhihu.com/p/2090084931380815419)
+- 微信公众号（统计工坊笔记）：[写论文卡在没数据？这个免费小程序把 50 种统计模型做成了「练手场」](https://mp.weixin.qq.com/s/kcBW8hkksYOOer-l7gP__w)
 
 ---
 
