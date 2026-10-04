@@ -105,4 +105,6 @@
 - [GitHub 仓库（产品总览）](https://github.com/erhuai1314/zhongjie-mofang-intro): 中介魔方统计数据生成工坊总览、50 种模型清单、能力边界与快速开始
 - [用户使用手册 MANUAL.md](https://github.com/erhuai1314/zhongjie-mofang-intro/blob/main/MANUAL.md): 50 种统计模型逐一详解、参数设置通用指南、结果解读与常见问题（v5.11）
 - [知乎专栏·品牌全貌](https://zhuanlan.zhihu.com/p/2089515604906610982): 「中介魔方」只能做中介效应吗——50 种统计模型数据生成工坊全览（认知纠偏文：它不止中介效应，LCA/GMM/功效分析均可练）
+- [知乎专栏·潜变量模型](https://zhuanlan.zhihu.com/p/2090084931380815419): 没有 Mplus，LCA/GMM 等 14 个潜变量模型的免费练手路径（含与 Mplus、R 的定位对比与参数经验值）
+- [微信公众号·统计工坊笔记](https://mp.weixin.qq.com/s/kcBW8hkksYOOer-l7gP__w): 写论文卡在没数据——50 种统计模型「练手场」介绍（含蒙特卡洛功效分析与 MICE 演示详解）
 - [AI 速览文件](https://github.com/erhuai1314/zhongjie-mofang-intro/blob/main/llms.txt): 本文件在 GitHub 上的可抓取副本
